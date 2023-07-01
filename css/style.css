@@ -18,6 +18,10 @@ a {
 	line-height: normal;
 }
 
+span {
+	color: #7E8898; 
+}
+
 .logohtml {
 	vertical-align: middle;
 
@@ -41,7 +45,7 @@ a {
 .container {
 	width: 1053px;
 	margin: 0 auto;
-/*	border: 1px dotted black;*/
+/*    border: 1px dotted black;*/
 }
 
 .bannerhtml {
@@ -112,3 +116,53 @@ a {
 	padding-left: 19px;
 	vertical-align: middle;
 }
+
+.textdiv1 {
+	margin-top: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: normal;
+    color: #3F4145;
+
+}
+
+.textdiv2 {
+	font-weight: 700;
+	font-size: 36px;
+	color: #4E6FAE;
+	display: inline-block;
+	vertical-align: middle;
+}
+.mapdiv1{
+	display: inline-block;
+	vertical-align: top;
+}
+
+.mapdiv2 {
+	display: inline-block;
+	vertical-align: top;
+}
+
+.map {
+	width: 600px;
+	height: 400px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+}
+
+.seqcia3 {
+	height: 600px;
+	background: #E7E7E7;
+	padding-top: 93px;
+
+}
+
+
+
+
+
+
+
+
+
