@@ -1,0 +1,114 @@
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 80px;
+}
+a {
+	color: #8D81FF;
+	font-size: 26px;
+	font-family: FiraGO;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.logohtml {
+	vertical-align: middle;
+
+	margin-right: 60px;
+}
+
+.n {
+	color: #4E6FAE;
+}
+
+.seqcia1 {
+
+}
+
+.container2 {
+	width: 1053px;
+	margin: 50px auto;
+/*	border: 1px dotted black;*/
+}
+
+.container {
+	width: 1053px;
+	margin: 0 auto;
+/*	border: 1px dotted black;*/
+}
+
+.bannerhtml {
+	margin-top: 97px;
+}
+
+.info-box {
+	margin-top: 120px;
+	margin-bottom: 26px;
+}
+
+.line2 {
+	margin-left: 18px;
+	margin-right: 17px;
+}
+
+.card1 {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.card2 {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	margin-left: 47px;
+	vertical-align: top;
+}
+
+.line1 {
+	margin-top: 93px;
+	margin-left: 41px;
+	margin-right: 41px;
+}
+
+.text1 {
+	display: block;
+	padding-top: 21px;
+	padding-left: 23px;
+}
+
+.divlogo {
+	display: inline-block;
+	margin-top: 30px;
+	padding-left: 36px;
+	vertical-align: middle;
+}
+.t {
+	display: inline-block;
+	margin-top: 20px;
+	padding-left: 30px;
+	vertical-align: middle;
+}
+
+.divlogo2 {
+	display: inline-block;
+	margin-top: 24px;
+	padding-left: 32px;
+	vertical-align: middle;
+}
+
+.t2 {
+	margin-top: 20px;
+	padding-left: 19px;
+	vertical-align: middle;
+}
