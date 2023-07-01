@@ -36,16 +36,21 @@ span {
 
 }
 
-.container2 {
-	width: 1053px;
-	margin: 50px auto;
-/*	border: 1px dotted black;*/
-}
-
 .container {
 	width: 1053px;
 	margin: 0 auto;
 /*    border: 1px dotted black;*/
+}
+
+.container3 {
+	width: 1291px;
+	margin: 0 auto;
+}
+
+.container4 {
+	width: 1291px;
+	margin: 50px auto;
+/*	border: 1px dotted black;*/
 }
 
 .bannerhtml {
@@ -155,14 +160,61 @@ span {
 	height: 600px;
 	background: #E7E7E7;
 	padding-top: 93px;
-
 }
 
 
+.mydiv26 {
+	width: 50px;
+	height: 50px;
+	background: #5012D5;
+	font-size: 24px;
+	line-height: 28px;
+	color: #84FF81;
+	padding: 8px;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: 400;
+}
 
+.may26 {
+	margin-top: 18px;
+	display: block;
+}
 
+.title1 {
+	display: block;
+	margin-top: 10px;
+}
 
+.code {
+	display: inline-block;
+	margin-top: 13px;
+	
+}
 
+.title2 {
+	vertical-align: top;
+	width: 778px;
+	height: 264px;
+	display: inline-block;
+	margin-left: 50px;
 
+}
+
+.a {
+	margin-top: 155px;
+}
+
+.title3 {
+	width: 778px;
+	margin-top: 13px;
+	margin-left: 50px;
+	vertical-align: top;
+
+}
+
+.title4 {
+	margin-top: 32px;
+}
 
 
